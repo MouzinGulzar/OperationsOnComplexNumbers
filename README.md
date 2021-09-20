@@ -1,2 +1,2 @@
 # OperationsOnComplexNumbers
-Addition, Subtraction, Multiplication &amp; Division of Complex Numbers
+Addition, Subtraction, Multiplication & Division of Complex Numbers
